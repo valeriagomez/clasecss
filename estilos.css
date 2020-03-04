@@ -1,0 +1,19 @@
+p{
+    font-size:20px;
+    font-family:"lucida handwriting";
+    font-weight:bold;
+    color:#E05C90;
+    text-align:justify;
+}
+main{
+    background:lightgray;
+}
+header{
+    background:navajowhite;
+}
+footer{
+    background:navajowhite;
+}
+body{
+    background:rosybrown;
+}
