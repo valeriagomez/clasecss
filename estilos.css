@@ -15,5 +15,15 @@ footer{
     background:navajowhite;
 }
 body{
-    background:rosybrown;
+    background-image:url(https://i.pinimg.com/originals/21/00/23/210023c4ca92e78efbf858190a028cf0.jpg);
+}
+.parrafo1{
+    font-size:50px;
+    font-family:"lucida handwriting";
+    font-weight:normal;
+    color:palevioletred;
+    text-align:justify;
+}
+.parrafo2{
+    color:palevioletred;
 }
